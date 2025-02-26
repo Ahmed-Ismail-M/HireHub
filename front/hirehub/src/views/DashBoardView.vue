@@ -1,8 +1,12 @@
 <template>
   <div class="container mt-4">
     <h1>Dashboard</h1>
-    <company-list />
-    <department-list />
+    <div class="container mt-4">
+      <div class="row">
+        <company-list />
+        <department-list />
+      </div>
+    </div>
   </div>
 </template>
 

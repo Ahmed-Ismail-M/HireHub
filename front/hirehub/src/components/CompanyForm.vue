@@ -1,7 +1,4 @@
 <template>
-  <div class="container mt-4">
-    <div class="row">
-      <!-- Form Section -->
       <div class="col-md-6">
         <div class="card p-3 shadow">
           <h3 class="text-center">Create Company</h3>
@@ -14,8 +11,7 @@
           </form>
         </div>
       </div>
-    </div>
-  </div>
+
 </template>
 
 <script setup lang="ts">
